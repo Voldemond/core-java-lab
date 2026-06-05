@@ -1,4 +1,4 @@
-package com.kunal.lab4.ex4;
+package com.kunal.lab2.ex4;
 import java.util.Arrays;
 public class Exercise_04 {
     public static int[] modifyArray(int[] arr) {

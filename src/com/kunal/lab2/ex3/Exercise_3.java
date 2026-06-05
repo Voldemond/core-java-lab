@@ -1,4 +1,4 @@
-package com.kunal.lab3.ex3;
+package com.kunal.lab2.ex3;
 
 public class Exercise_3 {
 	public static int[] getSorted(int[] arr) {
