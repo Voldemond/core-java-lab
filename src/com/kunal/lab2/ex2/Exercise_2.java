@@ -1,5 +1,4 @@
 package com.kunal.lab2.ex2;
-import java.util.Scanner; 
 
 
 public class Exercise_2 {
@@ -28,7 +27,7 @@ public static String[] sortStrings(String[] arr) {
     return arr;
 }
 public static void main(String[] args) {
-	String[] words = {"Banana", "Apple", "Mango", "Grapes", "Cherry", "Fig"};
+	String[] words = {"Banana", "Apple", "Mango", "Grapes", "Cherry", "Pineapple"};
 
 	System.out.println("Original Array: ");
     for (int i = 0; i < words.length; i++) {
@@ -40,6 +39,6 @@ public static void main(String[] args) {
     for (int i = 0; i < result.length; i++) {
         System.out.println("Position " + (i + 1) + ": " + result[i]);
     }
-
+    
 }
 }
