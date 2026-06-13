@@ -1,13 +1,13 @@
-# Ignore compiled files
+# Compiled files
 *.class
 
-# Ignore bin folder
+# Eclipse output folder
 bin/
 
-# Eclipse files
-.project
-.classpath
+# Eclipse config
 .settings/
+.classpath
+.project
 
 # Logs
 *.log
